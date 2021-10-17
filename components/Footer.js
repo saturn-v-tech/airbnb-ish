@@ -8,16 +8,16 @@ export default function Footer() {
     <FooterSection>
       <div className="footerInner">
         <span>
-          <h2>About</h2>
+          <h2>Om Oss</h2>
           <ul>
-            <li>How Airbnb works</li>
-            <li>Newsroom</li>
-            <li>Airbnb 2021</li>
-            <li>Investors</li>
-            <li>Airbnb Plus</li>
-            <li>Airbnb Luxe</li>
+            <li>Hvordan Bildeling.io fungerer</li>
+            <li>Nyheter</li>
+            <li>Bildeling.io 2021</li>
+            <li>Investorer</li>
+            <li>Bildeling.io Plus</li>
+            <li>Bildeling.io Luxe</li>
             <li className="lg-hidden">HotelTonight</li>
-            <li className="lg-hidden">Airbnb for Work</li>
+            <li className="lg-hidden">Bildeling.io for Work</li>
             <li className="lg-hidden">Made possible by Hosts</li>
             <li className="lg-hidden">Careers</li>
             <li className="lg-hidden">Founders&apos; Letter</li>
